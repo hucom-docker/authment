@@ -12,7 +12,7 @@ public class AccessmanagementApplication {
 
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String hello() {
-		return "Hello World!";
+		return "This is the main page!";
 	}
 
 	public static void main(String[] args) {
