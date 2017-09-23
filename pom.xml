@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>authment</name>
-	<description>Simple Authenrization management System</description>
+	<description>Simple authorization management System</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
